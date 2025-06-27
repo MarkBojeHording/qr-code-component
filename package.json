@@ -1,0 +1,10 @@
+{
+  "name": "qr-code-component",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.html, *.css'"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
